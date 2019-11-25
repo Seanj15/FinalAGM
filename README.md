@@ -12,3 +12,4 @@ The aim of the project was to build up a simple agent based model (ABM) to simul
 - is contained within a Graphical User Interface (GUI);
 - is initialised with data from the web.
 
+A link to download this software can be found [here](https://www.anaconda.com/distribution/)
