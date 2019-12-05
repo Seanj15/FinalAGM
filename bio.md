@@ -1,6 +1,8 @@
 ---
-layout: page 
-title: About 
+title: About
 ---
 
-This is an about page 
+# About this project
+
+In a word: **Awesome!**
+
