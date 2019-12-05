@@ -1,4 +1,4 @@
-[About](about.md)
+# [About](about.md)
 
 # GEOG5990M - Programming for GIS: Core Skills 
 ## Assessment 1 - Agent-Based Model
