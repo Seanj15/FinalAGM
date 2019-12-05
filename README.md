@@ -1,5 +1,6 @@
 ---
-title: Home
+layout: page
+title: [About](about.md)
 ---
 
 # GEOG5990M - Programming for GIS: Core Skills 
