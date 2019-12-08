@@ -8,5 +8,5 @@ sidebar: Home
 
 # Build settings
 markdown: kramdown
-theme: lanyon
+theme: jekyll-theme-slate
 
