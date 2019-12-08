@@ -7,5 +7,5 @@ github_username:  Seanj15
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
