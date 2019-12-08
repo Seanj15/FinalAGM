@@ -6,6 +6,6 @@ description: An online portfolio of specific projects that I have completed usin
 github_username:  Seanj15
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 theme: jekyll-theme-slate
 
