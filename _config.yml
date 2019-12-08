@@ -8,5 +8,5 @@ sidebar: Home
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: lanyon
 
