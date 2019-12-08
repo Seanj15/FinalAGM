@@ -7,5 +7,5 @@ github_username:  Seanj15
 
 # Build settings
 markdown: redcarpet
-theme: minima
+theme: jekyll-theme-slate
 
