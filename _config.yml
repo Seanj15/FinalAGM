@@ -2,15 +2,12 @@
 title: Online Portfolio
 author: Sean Johnson
 email: gy19saj@leeds.ac.uk
-description:
----
-title: About
----
- 
+description: An online portfolio of specific coding-based projects
 github_username:  Seanj15
-sidebar: Home
+navbar-links:
+  About Me: "aboutme"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 
