@@ -4,8 +4,7 @@ author: Sean Johnson
 email: gy19saj@leeds.ac.uk
 description: An online portfolio of specific coding-based projects
 github_username:  Seanj15
-navbar-links:
-  About Me: "aboutme"
+page-col: "#FFFFFF"
 
 # Build settings
 markdown: kramdown
