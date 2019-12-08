@@ -1,12 +1,11 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Online Portfolio
+author: Sean Johnson
+email: gy19saj@leeds.ac.uk
+description: An online portfolio of specific projects that I have completed using coding language. 
+github_username:  Seanj15
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 theme: minima
 
