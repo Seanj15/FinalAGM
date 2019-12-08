@@ -8,5 +8,5 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-texture
+theme: jekyll-theme-minimal
 remote_theme: thelehhman/texture
