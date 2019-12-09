@@ -8,5 +8,5 @@ github_username:  Seanj15
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
 
