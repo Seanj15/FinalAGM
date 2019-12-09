@@ -9,6 +9,7 @@ github_username:  Seanj15
 # Build settings
 markdown: kramdown
 theme: minima
-skin: sunrise
+minima:
+  skin: sunrise
 
 
