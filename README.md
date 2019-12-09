@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 
 # GEOG5990M - Programming for GIS: Core Skills 
 ## Assessment 1 - Agent-Based Model
